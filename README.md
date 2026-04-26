@@ -1,2 +1,0 @@
-# MdmTest
-Test for MDM
